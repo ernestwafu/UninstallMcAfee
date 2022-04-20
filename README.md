@@ -1,5 +1,5 @@
 # UninstallMcAfee
-Simple batch script to remove McAfee 
+Simple batch script that removes McAfee from a machine
 
 
 This is a simple batch file that kills McAfee's processes and remove agent / registry key entries.
